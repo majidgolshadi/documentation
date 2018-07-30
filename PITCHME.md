@@ -23,34 +23,45 @@ Markdown is a **lightweight markup language** with plain text formatting syntax.
 It is designed so that it can be converted to **HTML** and **many other formats** using a tool by the same name.[wiki](https://en.wikipedia.org/wiki/Markdown)
 
 ---
+
 ### Header
-```
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+![header](../pic/header.png)
 
-Alt-H1
-======
+---
 
-Alt-H2
-------
-```
+### Emphasis
+![Emphasis](../pic/emphasis.png)
 
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+---
 
-Alt-H1
-======
+### Lists
+![Lists](../pic/lists.png)
 
-Alt-H2
-------
+---
+
+
+### Links
+![Links](../pic/links.png)
+
+---
+
+### Images
+![Images](../pic/images.png)
+
+---
+
+### Code
+![Code](../pic/code.png)
+
+---
+
+### Tables
+![Tables](../pic/table.png)
+
+---
+
+### Blockquotes
+![Blockquotes](../pic/blockquotes.png)
 
 ---
 
@@ -59,4 +70,6 @@ Alt-H2
  - ...
  
 ---
+
+### Advance
 
