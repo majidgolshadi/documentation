@@ -46,7 +46,7 @@ It is designed so that it can be converted to **HTML** and **many other formats*
 ---
 
 ### Images
-![Images](pic/images.png)
+![Images](pic/image.png)
 
 ---
 
@@ -61,7 +61,7 @@ It is designed so that it can be converted to **HTML** and **many other formats*
 ---
 
 ### Blockquotes
-![Blockquotes](pic/blockquotes.png)
+![Blockquotes](pic/blockquote.png)
 
 ---
 
@@ -71,7 +71,19 @@ It is designed so that it can be converted to **HTML** and **many other formats*
  
 ---
 
-### Advance
+## Draw Diagrams With Markdown
+
+---
 
 
+## Draw Diagrams With Markdown
+![sequence diagram](https://support.typora.io/media/diagrams/Snip20160816_1.png)
+to see more you can go to [this link](https://support.typora.io/Draw-Diagrams-With-Markdown/)
+
+---
+
+## Samples
+* [Advance markdown tool](https://mdp.tylingsoft.com/)
+* [Markdown presentation](https://www.neomobili.com/products/slidium-markdown-presentation/)
+* [conflunce plugin](https://marketplace.atlassian.com/apps/1214124/mermaid-plugin-for-confluence?hosting=server&tab=overview)
 
