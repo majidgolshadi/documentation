@@ -72,11 +72,6 @@ It is designed so that it can be converted to **HTML** and **many other formats*
 ---
 
 ## Draw Diagrams With Markdown
-
----
-
-
-## Draw Diagrams With Markdown
 ![sequence diagram](https://support.typora.io/media/diagrams/Snip20160816_1.png)
 to see more you can go to [this link](https://support.typora.io/Draw-Diagrams-With-Markdown/)
 
@@ -86,4 +81,9 @@ to see more you can go to [this link](https://support.typora.io/Draw-Diagrams-Wi
 * [Advance markdown tool](https://mdp.tylingsoft.com/)
 * [Markdown presentation](https://www.neomobili.com/products/slidium-markdown-presentation/)
 * [conflunce plugin](https://marketplace.atlassian.com/apps/1214124/mermaid-plugin-for-confluence?hosting=server&tab=overview)
+* Local sample
+
+---
+
+# Thank you
 
