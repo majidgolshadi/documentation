@@ -25,43 +25,43 @@ It is designed so that it can be converted to **HTML** and **many other formats*
 ---
 
 ### Header
-![header](../pic/header.png)
+![header](https://github.com/majidgolshadi/documentation/blob/master/pic/header.png)
 
 ---
 
 ### Emphasis
-![Emphasis](../pic/emphasis.png)
+![Emphasis](https://github.com/majidgolshadi/documentation/blob/master/pic/emphasis.png)
 
 ---
 
 ### Lists
-![Lists](../pic/lists.png)
+![Lists](https://github.com/majidgolshadi/documentation/blob/master/pic/lists.png)
 
 ---
 
 
 ### Links
-![Links](../pic/links.png)
+![Links](https://github.com/majidgolshadi/documentation/blob/master/pic/links.png)
 
 ---
 
 ### Images
-![Images](../pic/images.png)
+![Images](https://github.com/majidgolshadi/documentation/blob/master/pic/images.png)
 
 ---
 
 ### Code
-![Code](../pic/code.png)
+![Code](https://github.com/majidgolshadi/documentation/blob/master/pic/code.png)
 
 ---
 
 ### Tables
-![Tables](../pic/table.png)
+![Tables](https://github.com/majidgolshadi/documentation/blob/master/pic/table.png)
 
 ---
 
 ### Blockquotes
-![Blockquotes](../pic/blockquotes.png)
+![Blockquotes](https://github.com/majidgolshadi/documentation/blob/master/pic/blockquotes.png)
 
 ---
 
@@ -72,4 +72,6 @@ It is designed so that it can be converted to **HTML** and **many other formats*
 ---
 
 ### Advance
+
+
 
