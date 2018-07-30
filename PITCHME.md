@@ -25,43 +25,43 @@ It is designed so that it can be converted to **HTML** and **many other formats*
 ---
 
 ### Header
-![header](https://github.com/majidgolshadi/documentation/blob/master/pic/header.png)
+![header](pic/header.png)
 
 ---
 
 ### Emphasis
-![Emphasis](https://github.com/majidgolshadi/documentation/blob/master/pic/emphasis.png)
+![Emphasis](pic/emphasis.png)
 
 ---
 
 ### Lists
-![Lists](https://github.com/majidgolshadi/documentation/blob/master/pic/lists.png)
+![Lists](pic/lists.png)
 
 ---
 
 
 ### Links
-![Links](https://github.com/majidgolshadi/documentation/blob/master/pic/links.png)
+![Links](pic/links.png)
 
 ---
 
 ### Images
-![Images](https://github.com/majidgolshadi/documentation/blob/master/pic/images.png)
+![Images](pic/images.png)
 
 ---
 
 ### Code
-![Code](https://github.com/majidgolshadi/documentation/blob/master/pic/code.png)
+![Code](pic/code.png)
 
 ---
 
 ### Tables
-![Tables](https://github.com/majidgolshadi/documentation/blob/master/pic/table.png)
+![Tables](pic/table.png)
 
 ---
 
 ### Blockquotes
-![Blockquotes](https://github.com/majidgolshadi/documentation/blob/master/pic/blockquotes.png)
+![Blockquotes](pic/blockquotes.png)
 
 ---
 
